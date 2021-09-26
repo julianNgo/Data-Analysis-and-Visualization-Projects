@@ -3,3 +3,4 @@ Compilation of SQL, Tableau, Python, Google Data Studio data analysis related pr
 
 # Projects & Challenges
 ## Covid-19 data analysis project
+- I created the Covid19 Dashboard by using Google Data Studio: https://datastudio.google.com/s/lTBRwq5Qbwg
